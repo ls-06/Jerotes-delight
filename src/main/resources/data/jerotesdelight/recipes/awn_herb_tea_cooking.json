@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "result": {
+    "item": "jerotesdelight:awn_herb_tea",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:awn_herb"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+[
+  // Round 1
+  {
+    "zh_CN": "仙境果茶",
+    "en_US": "Wonderland Fruit Tea",
+    "hunger": 0,
+    "saturation": 0.0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:health_boost",
+        "time": 5,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "zh_CN": "仙境芭菲",
+    "en_US": "Wonderland Parfait",
+    "hunger": 4,
+    "saturation": 3.0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:health_boost",
+        "time": 5,
+        "lv": 1
+      },
+      {
+        "name": "minecraft:luck",
+        "time": 5,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "zh_CN": "明路拼盘",
+    "en_US": "Bright Medley",
+    "hunger": 12,
+    "saturation": 18,
+    "effects": [
+      {
+        "name": "jerotesvillage:bright_land_heart",
+        "time": 5,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "仙境拼盘",
+    "en_US": "Wonderland Medley",
+    "hunger": 12,
+    "saturation": 18.0,
+    "effects": [
+      {
+        "name": "minecraft:health_boost",
+        "time": 5,
+        "lv": 1
+      },
+      {
+        "name": "minecraft:luck",
+        "time": 5,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "zh_CN": "生宝游鱼片",
+    "en_US": "Raw Jewelroamer Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟宝游鱼片",
+    "en_US": "Cooked Jewelroamer Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "生灰鳞鱼片",
+    "en_US": "Raw Greyscale Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟灰鳞鱼片",
+    "en_US": "Cooked Greyscale Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "生星闪鱼片",
+    "en_US": "Raw Starbrite Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟星闪鱼片",
+    "en_US": "Cooked Starbrite Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "生苦鳕片",
+    "en_US": "Raw Bitter Cod Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟苦鳕片",
+    "en_US": "Cooked Bitter Cod Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "生畅鱼片",
+    "en_US": "Raw Flowminnow Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟畅鱼片",
+    "en_US": "Cooked Flowminnow Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "生明草鲤片",
+    "en_US": "Raw Bright Grass Carp Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟明草鲤片",
+    "en_US": "Cooked Bright Grass Carp Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "生花鲈鱼片",
+    "en_US": "Raw Chromasnap Bass Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟花鲈鱼片",
+    "en_US": "Cooked Chromasnap Bass Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "生渊鱼片",
+    "en_US": "Raw Abyssaler Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟渊鱼片",
+    "en_US": "Cooked Abyssaler Slice",
+    "hunger": 3,
+    "saturation": 0.3
+  },
+  {
+    "zh_CN": "粉红仙人掌肉",
+    "en_US": "Pink Cactus Meat",
+    "hunger": 3,
+    "saturation": 1.5
+  },
+  {
+    "zh_CN": "粉红仙人掌肉排",
+    "en_US": "Cooked Pink Cactus Meat",
+    "hunger": 4,
+    "saturation": 4
+  },
+  {
+    "zh_CN": "黑丽果",
+    "en_US": "Black Pretty Fruit",
+    "hunger": 1,
+    "saturation": 1
+  },
+  // Round 2
+  {
+    "zh_CN": "生实鱼肉片",
+    "en_US": "Raw Solish Meat Slice",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟实鱼肉片",
+    "en_US": "Cooked Solish Meat Slice",
+    "hunger": 3,
+    "saturation": 3
+  },
+  {
+    "zh_CN": "明路花派切片",
+    "en_US": "Slice of Bright Flowers Pie",
+    "hunger": 3,
+    "saturation": 2,
+    "effects": [
+      {
+        "name": "jerotesvillage:bright_land_heart",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "仙境花派切片",
+    "en_US": "Slice of Wonderland Flowers Pie",
+    "hunger": 3,
+    "saturation": 2.5
+  },
+  {
+    "zh_CN": "苦寒花派切片",
+    "en_US": "Slice of Bitter Cold Flowers Pie",
+    "hunger": 3,
+    "saturation": 1.6,
+    "effects": [
+      {
+        "name": "minecraft:slowness",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "奶蜥",
+    "en_US": "Cream Meganose Snow Lizard",
+    "hunger": 10,
+    "saturation": 14
+  },
+  {
+    "zh_CN": "黑丽果派切片",
+    "en_US": "Slice of Black Pretty Fruit Pie",
+    "hunger": 3,
+    "saturation": 2,
+    "effects": [
+      {
+        "name": "minecraft:darkness",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "鸡蛋炒粉红仙人掌饭",
+    "en_US": "Egg Fried Rice With Pink Cactus",
+    "hunger": 6,
+    "saturation": 5,
+    "effects": [
+      {
+        "name": "farmersdelight:comfort",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "宝石海葵蛋花汤",
+    "en_US": "Gemstone Anemone Egg drop soup",
+    "hunger": 3,
+    "saturation": 3.6
+  },
+  {
+    "zh_CN": "仙境果切",
+    "en_US": "Wonderland Fruit Slice",
+    "hunger": 1,
+    "saturation": 0.8
+  },
+  {
+    "zh_CN": "二轮龙葵果酱",
+    "en_US": "Second Round Nigrums Jelly",
+    "hunger": 6,
+    "saturation": 3
+  },
+  {
+    "zh_CN": "二轮龙葵果汁",
+    "en_US": "Second Round Nigrums Juice",
+    "hunger": 2,
+    "saturation": 3,
+    "isDrink": true
+  },
+  {
+    "zh_CN": "清蒸泊鳅",
+    "en_US": "Steamed Lake Loach",
+    "hunger": 14,
+    "saturation": 6
+  },
+  {
+    "zh_CN": "二轮芦荟果酱",
+    "en_US": "Second Round Aloe Jelly",
+    "hunger": 6,
+    "saturation": 3
+  },
+  {
+    "zh_CN": "二轮芦荟果汁",
+    "en_US": "Second Round Aloe Juice",
+    "hunger": 2,
+    "saturation": 3,
+    "isDrink": true
+  },
+  {
+    "zh_CN": "日光蟹腿",
+    "en_US": "Sun Crab Leg",
+    "hunger": 3,
+    "saturation": 3.5,
+    "effects": [
+      {
+        "name": "minecraft:glowing",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "日光蟹肉",
+    "en_US": "Sun Crab Meat",
+    "hunger": 5,
+    "saturation": 6,
+    "effects": [
+      {
+        "name": "minecraft:glowing",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "日光蟹意面",
+    "en_US": "Sun Crab Pasta",
+    "hunger": 12,
+    "saturation": 19.2,
+    "effects": [
+      {
+        "name": "minecraft:glowing",
+        "time": 5,
+        "lv": 0
+      },
+      {
+        "name": "farmersdelight:nourishment",
+        "time": 5,
+        "lv": 0
+      },
+    ]
+  },
+  {
+    "zh_CN": "无味瓜果冻",
+    "en_US": "Flavorless Melon Jelly",
+    "hunger": 2,
+    "saturation": 2
+  },
+  {
+    "zh_CN": "粉红粘液饭",
+    "en_US": "Pink Slime Rice",
+    "hunger": 6,
+    "saturation": 9
+  },
+  {
+    "zh_CN": "三文鱼紫沙明治",
+    "en_US": "Salmon Purple Sandwich",
+    "hunger": 8,
+    "saturation": 18
+  },
+  {
+    "zh_CN": "仙境果蛋奶沙司",
+    "en_US": "Wonderland Fruit Custard",
+    "hunger": 7,
+    "saturation": 8.4
+  },
+  {
+    "zh_CN": "炸漫兽肉丸",
+    "en_US": "Fried Rambler Meat Nugget",
+    "hunger": 9,
+    "saturation": 9
+  },
+  {
+    "zh_CN": "炸巨鼻雪蜥肉丸",
+    "en_US": "Fried Meganose Snow Lizard Meat Nugget",
+    "hunger": 9,
+    "saturation": 9
+  },
+  {
+    "zh_CN": "滑行者粘液饭",
+    "en_US": "Slider Mucus Rice",
+    "hunger": 6,
+    "saturation": 9
+  },
+  {
+    "zh_CN": "宝石海鲜粥",
+    "en_US": "Gemstone Seafood Porridge",
+    "hunger": 9,
+    "saturation": 13
+  },
+  {
+    "zh_CN": "寒霜雪怪猴脑",
+    "en_US": "Frost Yeti Brain",
+    "hunger": 1,
+    "saturation": 1,
+    "effects": [
+      {
+        "name": "minecraft:nausea",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "泌火恶怪果冻",
+    "en_US": "Fire Secretor Jelly",
+    "hunger": 4,
+    "saturation": 3
+  },
+  {
+    "zh_CN": "速行兽肉",
+    "en_US": "Rusher Meat",
+    "hunger": 4,
+    "saturation": 2.4
+  },
+  {
+    "zh_CN": "速行兽肉排",
+    "en_US": "Cooked Rusher Meat",
+    "hunger": 10,
+    "saturation": 16
+  },
+  {
+    "zh_CN": "寒霜雪怪脑花",
+    "en_US": "Frost Yeti Brain Flower",
+    "hunger": 11,
+    "saturation": 5
+  },
+  {
+    "zh_CN": "生蓝荧鱿鱼",
+    "en_US": "Raw Blue Shimmer Squid",
+    "hunger": 1,
+    "saturation": 1,
+    "effects": [
+      {
+        "name": "minecraft:glowing",
+        "time": 3,
+        "lv": 0
+      },
+      {
+        "name": "minecraft:blindness",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "烤蓝荧鱿鱼",
+    "en_US": "Cooked Blue Shimmer Squid",
+    "hunger": 6,
+    "saturation": 5
+  },
+  {
+    "zh_CN": "蓝荧鱿鱼须",
+    "en_US": "Blue Shimmer Squid Meat",
+    "hunger": 1,
+    "saturation": 0.5
+  },
+  {
+    "zh_CN": "熟蓝荧鱿鱼须",
+    "en_US": "Cooked Blue Shimmer Squid Meat",
+    "hunger": 3,
+    "saturation": 2
+  },
+  {
+    "zh_CN": "生棘龟",
+    "en_US": "Raw Thorny Tortoise",
+    "hunger": 2,
+    "saturation": 2
+  },
+  {
+    "zh_CN": "熟棘龟",
+    "en_US": "Cooked Thorny Tortoise",
+    "hunger": 4,
+    "saturation": 5
+  },
+  {
+    "zh_CN": "棘龟焖蛋",
+    "en_US": "Steamed Thorny Tortoise with Egg",
+    "hunger": 8,
+    "saturation": 11
+  },
+  {
+    "zh_CN": "鳞熊肉",
+    "en_US": "Scaly Bear Meat",
+    "hunger": 4,
+    "saturation": 2.4
+  },
+  {
+    "zh_CN": "熟鳞熊肉",
+    "en_US": "Cooked Scaly Bear Meat",
+    "hunger": 10,
+    "saturation": 16
+  },
+  // Round 3
+  {
+    "zh_CN": "二轮蒲公英茶",
+    "en_US": "Second Round Dandelion Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:health_boost",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "二轮芦荟布丁",
+    "en_US": "Second Round Aloe Pudding",
+    "hunger": 4,
+    "saturation": 4
+  },
+  {
+    "zh_CN": "温泉蛋",
+    "en_US": "Hot Spring Eggs",
+    "hunger": 4,
+    "saturation": 2
+  },
+  {
+    "zh_CN": "白风堇茶",
+    "en_US": "White Breeze Violet Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:saturation",
+        "time": 1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "紫婆挪茶",
+    "en_US": "Purple Ponuo Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:haste",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "闪络草茶",
+    "en_US": "Flashing Grass Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:glowing",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "香坪草茶",
+    "en_US": "Fragrant Lawn Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:luck",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "青蓝根茶",
+    "en_US": "Cyan Root Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:jump_boost",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "苦寒雪花茶",
+    "en_US": "Bitter Cold Snow Flower Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:slowness",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "闻草茶",
+    "en_US": "Hearsay Grass Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:poison",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "仙境花茶",
+    "en_US": "Wonderland Flower Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:regeneration",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "艼花茶",
+    "en_US": "Tinbush Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:regeneration",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "红盎然茶",
+    "en_US": "Red Lush Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:slowness",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "品红菊茶",
+    "en_US": "Magenta Mums Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:night_vision",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "芒药茶",
+    "en_US": "Awn Herb Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:instant_health",
+        "time": 0,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "谐梦铃茶",
+    "en_US": "Harmonious Dream Bell Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:regeneration",
+        "time": 3,
+        "lv": 0
+      },
+      {
+        "name": "minecraft:health_boost",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "阳橙子茶",
+    "en_US": "Sun Orange Flower Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:fire_resistance",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "褐泥刺茶",
+    "en_US": "Brown Mud Thorns Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:darkness",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "绿人杆茶",
+    "en_US": "Green Humanoid Cane Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:mining_fatigue",
+        "time": 1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "麻尘花茶",
+    "en_US": "Fibre Dust Flower Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:weakness",
+        "time": 0.1,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "迷林花茶",
+    "en_US": "Mysterest Flower Tea",
+    "hunger": 0,
+    "saturation": 0,
+    "isDrink": true,
+    "effects": [
+      {
+        "name": "minecraft:luck",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "流心荟蜜瓜",
+    "en_US": "Molten Aloe Bright Melon",
+    "hunger": 8,
+    "saturation": 6
+  },
+  {
+    "zh_CN": "蓬丘兽肉",
+    "en_US": "Fluffmound Meat",
+    "hunger": 4,
+    "saturation": 2.4
+  },
+  {
+    "zh_CN": "蓬丘兽肉排",
+    "en_US": "Cooked Fluffmound Meat",
+    "hunger": 10,
+    "saturation": 16
+  },
+  {
+    "zh_CN": "拱鼻角兽肉",
+    "en_US": "Archnosed Hornbeast Meat",
+    "hunger": 4,
+    "saturation": 2.4
+  },
+  {
+    "zh_CN": "拱鼻角兽肉排",
+    "en_US": "Cooked Archnosed Hornbeast Meat",
+    "hunger": 10,
+    "saturation": 16
+  },
+  {
+    "zh_CN": "炸漫兽肉排饭",
+    "en_US": "Fried Rambler Meat Rice",
+    "hunger": 16,
+    "saturation": 19.2,
+    "effects": [
+      {
+        "name": "farmersdelight:nourishment",
+        "time": 5,
+        "lv": 0
+      },
+      {
+        "name": "farmersdelight:comfort",
+        "time": 5,
+        "lv": 0
+      },
+      {
+        "name": "jerotesvillage:fragrance",
+        "time": 3,
+        "lv": 0
+      }
+    ]
+  },
+  {
+    "zh_CN": "仙境沙拉",
+    "en_US": "Wonderland Salad",
+    "hunger": 5,
+    "saturation": 3.5,
+    "effects": [
+      {
+        "name": "minecraft:luck",
+        "time": 5,
+        "lv": 1
+      }
+    ]
+  },
+  {
+    "zh_CN": "生沙屿骇鸟肉",
+    "en_US": "Beach Terror Bird Meat",
+    "hunger": 3,
+    "saturation": 2
+  },
+  {
+    "zh_CN": "熟沙屿骇鸟肉",
+    "en_US": "Cooked Beach Terror Bird Meat",
+    "hunger": 9,
+    "saturation": 6
+  },
+  {
+    "zh_CN": "生沙屿骇鸟腿",
+    "en_US": "Beach Terror Bird Leg",
+    "hunger": 2,
+    "saturation": 1
+  },
+  {
+    "zh_CN": "熟沙屿骇鸟腿",
+    "en_US": "Cooked Beach Terror Bird Leg",
+    "hunger": 5,
+    "saturation": 3
+  },
+  {
+    "zh_CN": "碗装粉红仙人掌无味瓜盅",
+    "en_US": "Bowl of Pink Cactus Flavorless Melon Soup",
+    "maxStack": 1,
+    "hunger": 14,
+    "saturation": 21,
+    "crafting": "minecraft:bowl",
+    "effects": [
+      {
+        "name": "farmersdelight:comfort",
+        "time": 5,
+        "lv": 0
+      }
+    ]
+  }
+]

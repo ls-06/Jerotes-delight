@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "item": "jerotesvillage:second_round_dandelion"
+    },
+    "b": {
+      "item": "jerotesvillage:white_breeze_violet"
+    },
+    "c": {
+      "item": "jerotesvillage:purple_ponuo"
+    },
+    "d": {
+      "item": "jerotesvillage:flashing_grass"
+    },
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "x": {
+      "item": "minecraft:wheat"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "w": {
+      "tag": "forge:milk"
+    }
+  },
+  "pattern": [
+    "a#b",
+    "cwd",
+    "xOx"
+  ],
+  "result": {
+    "item": "jerotesdelight:bright_flowers_pie"
+  }
+}

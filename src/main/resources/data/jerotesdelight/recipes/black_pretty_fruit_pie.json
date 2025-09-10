@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "a": {
+      "item": "jerotesdelight:black_pretty_fruit"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "w": {
+      "tag": "forge:milk"
+    }
+  },
+  "pattern": [
+    "###",
+    "awa",
+    "xOx"
+  ],
+  "result": {
+    "item": "jerotesdelight:black_pretty_fruit_pie"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "jerotesdelight:wonderland_salad",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:wonderland_flower"
+    },
+    {
+      "item": "jerotesvillage:awn_herb"
+    },
+    {
+      "item": "jerotesvillage:botanize_powder"
+    },
+    {
+      "item": "jerotesvillage:magenta_mums"
+    },
+    {
+      "item": "jerotesdelight:wonderland_fruit_slice"
+    },
+    {
+      "item": "jerotesdelight:wonderland_fruit_slice"
+    }
+  ]
+}

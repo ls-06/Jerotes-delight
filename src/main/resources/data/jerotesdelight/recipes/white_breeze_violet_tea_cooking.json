@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "result": {
+    "item": "jerotesdelight:white_breeze_violet_tea",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:white_breeze_violet"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ]
+}

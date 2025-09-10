@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "result": {
+    "item": "jerotesdelight:cooked_starbrite_slice",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:raw_starbrite_slice"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

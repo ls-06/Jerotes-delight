@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smoking",
+    "result": {
+        "item": "jerotesdelight:cooked_beach_terror_bird_leg",
+        "count": 1
+    },
+    "ingredient": {
+        "item": "jerotesdelight:beach_terror_bird_leg"
+    },
+    "experience": 0.35,
+    "cookingtime": 100
+}

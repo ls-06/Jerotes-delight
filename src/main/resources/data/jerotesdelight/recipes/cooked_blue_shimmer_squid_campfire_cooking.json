@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "result": {
+    "item": "jerotesdelight:cooked_blue_shimmer_squid",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:raw_blue_shimmer_squid"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

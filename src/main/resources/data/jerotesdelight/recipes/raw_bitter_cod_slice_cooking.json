@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "jerotesdelight:raw_bitter_cod_slice",
+      "count": 2
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "jerotesvillage:bitter_cod"
+    }
+  ]
+}

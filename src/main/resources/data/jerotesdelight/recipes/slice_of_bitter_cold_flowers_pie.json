@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "jerotesdelight:slice_of_bitter_cold_flowers_pie",
+      "count": 4
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "jerotesdelight:bitter_cold_flowers_pie"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "result": {
+    "item": "jerotesdelight:cooked_blue_shimmer_squid_meat",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:blue_shimmer_squid_meat"
+  },
+  "experience": 0.35,
+  "cookingtime": 100
+}

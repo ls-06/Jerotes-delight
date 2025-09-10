@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:pink_slime_rice",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:pink_slime_ball"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ]
+}

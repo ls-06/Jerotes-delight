@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "jerotesdelight:bright_medley",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:second_round_aloe_leaf"
+    },
+    {
+      "item": "jerotesvillage:flavorless_melon_slice"
+    },
+    {
+      "item": "jerotesvillage:bright_melon"
+    },
+    {
+      "item": "jerotesvillage:second_round_nigrum"
+    }
+  ]
+}

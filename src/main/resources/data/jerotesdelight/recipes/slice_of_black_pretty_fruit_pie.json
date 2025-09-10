@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "jerotesdelight:slice_of_black_pretty_fruit_pie",
+      "count": 4
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "jerotesdelight:black_pretty_fruit_pie"
+    }
+  ]
+}

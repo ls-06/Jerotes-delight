@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:sun_crab_pasta",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesdelight:sun_crab_meat"
+    },
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    }
+  ]
+}

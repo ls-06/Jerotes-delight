@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "result": {
+    "item": "jerotesdelight:cooked_thorny_tortoise",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:raw_thorny_tortoise"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

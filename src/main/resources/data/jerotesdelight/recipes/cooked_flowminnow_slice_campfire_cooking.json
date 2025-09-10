@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "result": {
+    "item": "jerotesdelight:cooked_flowminnow_slice",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:raw_flowminnow_slice"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

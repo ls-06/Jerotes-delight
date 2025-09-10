@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "result": {
+    "item": "jerotesdelight:cooked_solish_meat_slice",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:raw_solish_meat_slice"
+  },
+  "experience": 0.35,
+  "cookingtime": 100
+}

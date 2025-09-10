@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "result": {
+    "item": "jerotesdelight:fried_meganose_snow_lizard_meat_nugget",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:meganose_snow_lizard_meat"
+    },
+    {
+      "item": "jerotesvillage:bitter_cold_fat"
+    }
+  ]
+}

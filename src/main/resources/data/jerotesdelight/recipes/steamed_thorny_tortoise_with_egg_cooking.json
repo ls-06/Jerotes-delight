@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:steamed_thorny_tortoise_with_egg",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesdelight:raw_thorny_tortoise"
+    },
+    {
+      "item": "jerotesvillage:thorny_tortoise_egg"
+    },
+    {
+      "item": "jerotesvillage:thorny_tortoise_egg"
+    },
+    {
+      "item": "jerotesvillage:thorny_tortoise_egg"
+    }
+  ]
+}

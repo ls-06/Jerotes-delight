@@ -1,0 +1,261 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "0": "jerotesdelight:block/bitter_cold_flowers_pie",
+    "particle": "jerotesdelight:block/bitter_cold_flowers_pie"
+  },
+  "elements": [
+    {
+      "from": [
+        1,
+        0,
+        8
+      ],
+      "to": [
+        8,
+        7,
+        15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          1,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.75,
+            3.5,
+            3.5,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            1.75,
+            5.25,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            3.5,
+            5.25,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0,
+            5.25,
+            1.75,
+            7
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            7,
+            1.75,
+            5.25,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            3.5,
+            5.25,
+            1.75,
+            7
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        0,
+        8
+      ],
+      "to": [
+        15,
+        7,
+        15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5.25,
+            1.75,
+            7,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            5.25,
+            5.25,
+            7
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.5,
+            7,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            5.25,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            1.75,
+            8.75,
+            0,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8.75,
+            0,
+            7,
+            1.75
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [
+        8,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        7,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.75,
+            7,
+            3.5,
+            8.75
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            7,
+            1.75,
+            8.75,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            7,
+            5.25,
+            8.75
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            7,
+            3.5,
+            8.75,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            7,
+            8.75,
+            5.25,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8.75,
+            5.25,
+            7,
+            7
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "group",
+      "origin": [
+        8,
+        0,
+        1
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

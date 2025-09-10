@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "result": {
+    "item": "jerotesdelight:molten_aloe_bright_melon",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:second_round_aloe_leaf"
+    },
+    {
+      "item": "jerotesvillage:bright_melon"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ]
+}

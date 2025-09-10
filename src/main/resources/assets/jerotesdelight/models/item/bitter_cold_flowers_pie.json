@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jerotesdelight:item/bitter_cold_flowers_pie"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "jerotesdelight:raw_bright_grass_carp_slice",
+      "count": 2
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "jerotesvillage:bright_grass_carp"
+    }
+  ]
+}

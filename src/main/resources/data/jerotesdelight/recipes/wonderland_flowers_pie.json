@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "item": "jerotesvillage:hearsay_grass"
+    },
+    "b": {
+      "item": "jerotesvillage:wonderland_flower"
+    },
+    "c": {
+      "item": "jerotesvillage:red_lush"
+    },
+    "d": {
+      "item": "jerotesvillage:magenta_mums"
+    },
+    "e": {
+      "item": "jerotesvillage:awn_herb"
+    },
+    "f": {
+      "item": "jerotesvillage:harmonious_dream_bell"
+    },
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "w": {
+      "tag": "forge:milk"
+    }
+  },
+  "pattern": [
+    "a#b",
+    "cwd",
+    "eOf"
+  ],
+  "result": {
+    "item": "jerotesdelight:wonderland_flowers_pie"
+  }
+}

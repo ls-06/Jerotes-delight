@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:hot_spring_eggs",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:thorny_tortoise_egg"
+    },
+    {
+      "item": "jerotesvillage:thorny_tortoise_egg"
+    }
+  ]
+}

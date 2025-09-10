@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "jerotesdelight:blue_shimmer_squid_meat",
+      "count": 2
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "jerotesdelight:raw_blue_shimmer_squid"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "textures": {
+    "0": "jerotesdelight:block/bright_flowers_pie",
+    "particle": "jerotesdelight:block/bright_flowers_pie"
+  },
+  "elements": [
+    {
+      "from": [
+        1,
+        0,
+        8
+      ],
+      "to": [
+        8,
+        7,
+        15
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          1,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            1.75,
+            5.25,
+            3.5,
+            7
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            5.25,
+            5.25,
+            7
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            5.25,
+            3.5,
+            7,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            5.25,
+            5.25,
+            7,
+            7
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            1.75,
+            6.25,
+            0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8,
+            1.75,
+            6.25,
+            3.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [
+        1,
+        0,
+        1
+      ],
+      "to": [
+        8,
+        7,
+        8
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          1,
+          0,
+          1
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            3.5,
+            1.75,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            1.75,
+            3.5,
+            3.5,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            3.5,
+            3.5,
+            5.25,
+            5.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            0,
+            6.25,
+            1.75
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            6.25,
+            3.5,
+            4.5,
+            1.75
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            1.75,
+            5.25,
+            0,
+            7
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "ALL",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "1",
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "color": 0,
+          "children": [
+            {
+              "name": "块3",
+              "origin": [
+                8,
+                8,
+                8
+              ],
+              "color": 0,
+              "children": [
+                0
+              ]
+            },
+            {
+              "name": "块4",
+              "origin": [
+                1,
+                0,
+                1
+              ],
+              "color": 0,
+              "children": [
+                1,
+                {
+                  "name": "白风堇",
+                  "origin": [
+                    4.85,
+                    8.75,
+                    8.3
+                  ],
+                  "color": 0,
+                  "children": [
+                    {
+                      "name": "白1",
+                      "origin": [
+                        4.85,
+                        6.65,
+                        8.3
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "白1",
+                      "origin": [
+                        4.85,
+                        6.65,
+                        8.3
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "白1",
+                      "origin": [
+                        4.85,
+                        6.65,
+                        8.3
+                      ],
+                      "color": 0,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "紫婆挪",
+                  "origin": [
+                    -1,
+                    13,
+                    0
+                  ],
+                  "color": 0,
+                  "children": [
+                    {
+                      "name": "group",
+                      "origin": [
+                        12,
+                        7,
+                        -6
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "group",
+                      "origin": [
+                        12,
+                        7,
+                        -6
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "group",
+                      "origin": [
+                        12,
+                        7,
+                        -6
+                      ],
+                      "color": 0,
+                      "children": []
+                    },
+                    {
+                      "name": "group",
+                      "origin": [
+                        12,
+                        7,
+                        -6
+                      ],
+                      "color": 0,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

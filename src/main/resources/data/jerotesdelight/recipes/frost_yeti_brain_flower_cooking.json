@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:frost_yeti_brain_flower",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "jerotesdelight:frost_yeti_brain"
+    }
+  ]
+}

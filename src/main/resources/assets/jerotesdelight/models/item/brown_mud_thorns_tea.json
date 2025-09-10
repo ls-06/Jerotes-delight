@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jerotesdelight:item/brown_mud_thorns_tea"
+  }
+}

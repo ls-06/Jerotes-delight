@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "result": {
+    "item": "jerotesdelight:cooked_pink_cactus_meat",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:pink_cactus_meat"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "jerotesdelight:wonderland_parfait",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:wonderland_fruit"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ]
+}

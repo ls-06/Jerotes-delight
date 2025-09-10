@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "result": {
+    "item": "jerotesdelight:wonderland_fruit_custard",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:wonderland_fruit"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ]
+}

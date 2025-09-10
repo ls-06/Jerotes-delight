@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "a": {
+      "item": "jerotesvillage:fragrant_lawn"
+    },
+    "b": {
+      "item": "jerotesvillage:cyan_root"
+    },
+    "c": {
+      "item": "jerotesvillage:bitter_cold_snow_flower"
+    },
+    "d": {
+      "item": "minecraft:snowball"
+    },
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "x": {
+      "item": "minecraft:wheat"
+    },
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "w": {
+      "tag": "forge:milk"
+    }
+  },
+  "pattern": [
+    "a#b",
+    "cwd",
+    "xOx"
+  ],
+  "result": {
+    "item": "jerotesdelight:bitter_cold_flowers_pie"
+  }
+}

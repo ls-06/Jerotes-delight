@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jerotesdelight:item/cooked_archnosed_hornbeast_meat"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "result": {
+    "item": "jerotesdelight:salmon_purple_sandwich",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "tag": "forge:raw_fishes"
+    },
+    {
+      "item": "jerotesvillage:purple_sandwich"
+    }
+  ]
+}

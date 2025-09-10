@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:steamed_lake_loach",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:lake_loach"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    },
+    {
+      "item": "jerotesvillage:bitter_cold_fat"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ]
+}

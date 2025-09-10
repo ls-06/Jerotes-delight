@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:egg_fried_rice_with_pink_cactus",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesdelight:pink_cactus_meat"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ]
+}

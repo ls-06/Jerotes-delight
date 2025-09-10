@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "jerotesvillage:flavorless_melon"
+  },
+  "result": {
+    "item": "jerotesdelight:pink_cactus_flavorless_melon_soup",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesdelight:pink_cactus_meat"
+    },
+    {
+      "tag": "forge:raw_pork"
+    },
+    {
+      "tag": "forge:mushrooms"
+    }
+  ]
+}

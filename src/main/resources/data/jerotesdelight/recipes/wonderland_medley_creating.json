@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "item": "jerotesdelight:wonderland_medley",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesdelight:wonderland_fruit_slice"
+    },
+    {
+      "item": "jerotesvillage:glistering_flavorless_melon_slice"
+    },
+    {
+      "item": "jerotesvillage:golden_bright_melon"
+    }
+  ]
+}

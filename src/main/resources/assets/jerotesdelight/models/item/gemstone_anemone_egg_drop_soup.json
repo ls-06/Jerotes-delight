@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jerotesdelight:item/gemstone_anemone_egg_drop_soup"
+  }
+}

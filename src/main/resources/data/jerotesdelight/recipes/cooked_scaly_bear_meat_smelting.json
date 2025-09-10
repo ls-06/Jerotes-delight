@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "result": {
+    "item": "jerotesdelight:cooked_scaly_bear_meat",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:scaly_bear_meat"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

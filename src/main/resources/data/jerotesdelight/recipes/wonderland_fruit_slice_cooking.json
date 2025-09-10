@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "jerotesdelight:wonderland_fruit_slice",
+      "count": 4
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "jerotesvillage:wonderland_fruit"
+    }
+  ]
+}

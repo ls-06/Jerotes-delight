@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:cream_meganose_snow_lizard",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:meganose_snow_lizard_meat"
+    },
+    {
+      "item": "jerotesvillage:bitter_cold_fat"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ]
+}

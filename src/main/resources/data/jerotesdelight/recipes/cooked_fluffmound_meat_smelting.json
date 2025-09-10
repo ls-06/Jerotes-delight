@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "result": {
+    "item": "jerotesdelight:cooked_fluffmound_meat",
+    "count": 1
+  },
+  "ingredient": {
+    "item": "jerotesdelight:fluffmound_meat"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

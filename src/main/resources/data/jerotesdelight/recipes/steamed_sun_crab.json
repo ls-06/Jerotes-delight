@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "result": {
+    "item": "jerotesdelight:steamed_sun_crab",
+    "count": 1
+  },
+  "ingredients": [
+    {
+      "item": "jerotesvillage:sun_crab"
+    },
+    {
+      "item": "jerotesvillage:bitter_cold_fat"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    }
+  ]
+}

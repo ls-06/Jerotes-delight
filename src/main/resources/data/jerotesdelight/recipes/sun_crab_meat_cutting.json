@@ -1,0 +1,21 @@
+{
+  "type": "farmersdelight:cutting",
+  "tool": {
+    "tag": "forge:tools/knives"
+  },
+  "result": [
+    {
+      "item": "jerotesdelight:sun_crab_meat",
+      "count": 2
+    },
+    {
+      "item": "jerotesdelight:sun_crab_leg",
+      "count": 2
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "jerotesdelight:steamed_sun_crab"
+    }
+  ]
+}
